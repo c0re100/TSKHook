@@ -1,0 +1,18 @@
+{
+  "files": [
+    {
+      "name": "TSKHook.dll",
+      "version": "1.1.6",
+      "hash": "b692fc2304e2a845db63c5bc72f12eae0af6455444b9a44742c9c28ce51a9786",
+      "download_url": "https://github.com/c0re100/TSKHook/releases/download/v1.1.6/TSKHook.dll",
+      "download_path": "TSKHook.dll"
+    },
+    {
+      "name": "notosanscjktc",
+      "version": "1.1.6",
+      "hash": "5d5af40188bec656eca87c693976b91f0ba700c9e216a4ecd333aaa051a147f5",
+      "download_url": "https://github.com/c0re100/TSKHook/releases/download/v1.1.6/notosanscjktc",
+      "download_path": "font/notosanscjktc"
+    }
+  ]
+}
